@@ -51,4 +51,4 @@ Create a shareable online document (Google Docs, etc) and provide us a completed
 1. What other question might you have about the components?
 1. How would you approach the e2e testing of these components once they graduate to the application?
 
-Good luck and thank you!
+Feel free to reach out with any questions to the same email. Good luck and thank you!
