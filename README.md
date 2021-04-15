@@ -22,7 +22,8 @@ Tellie provides &quot;Tiles&quot; to users. Tiles are the main primitive with wh
 - Must match designs exactly (pixel perfect colors, spacing, fonts, etc.)
 - Clicking Add Tile should show a popup with three tile types: Image, Links, and Shop
 - Clicking an item in the Add Tile popup should add that tile type to the tile list below
-- User should not be able to add more than 5 tiles
+- User should not be able to add more than 10 tiles
+- Should show delete modal to confirm deleting a tile
 - Message should appear when a tile is deleted explaining the deletion and disappear after 5 seconds
 - Message should appear when the max tile limit is reached
 - Tiles are ordered and dragging a tile should reorder the tiles
