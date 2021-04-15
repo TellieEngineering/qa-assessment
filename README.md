@@ -6,12 +6,12 @@ Hello and welcome to Tellie&#39;s Quality Analyst assessment! 👋
 
 This will test your ability to catch visual and behavioral test case failures in real-world components. Tellie is a visually rich application, so our quality bar for aesthetics and user experience is high!
 
-Today, we want you to assure the quality of three components.
+Today, we want you to assure the quality of two UI components:
 
 1. Add/Edit Tiles (storybook / figma)
 1. Image Well (storybook / figma)
 
-Tellie uses [Storybook](https://storybook.js.org/) and [Figma](https://www.figma.com) to bridge our design and development teams. You will find links to each above. There are more stories in our storybook (feel free to explore!), but please only test the specific stories above (**two** **total**). Also, please also review our fonts and color scheme here.
+Tellie uses [Storybook](https://storybook.js.org/) and [Figma](https://www.figma.com) to bridge our design and development teams. You will find links to each component in their respective applications above. There are more stories in our storybook (feel free to explore!), but please only test the specific stories above (**two** **total**). Also, please also review our fonts and color scheme here.
 
 We have purposefully introduced bugs/errors into at least one of the components above. Review the Acceptance Criteria below and manually test each component against the criteria in Chrome on Desktop (you might opt to test other browsers, but this is not required).
 
@@ -19,7 +19,7 @@ We have purposefully introduced bugs/errors into at least one of the components 
 
 Tellie provides &quot;Tiles&quot; to users. Tiles are the main primitive with which users build their sites. There are several different Tile types, from tiles that display an image, that display a set of links, that play media, etc. This component manages what tiles appear on a user&#39;s site (and in what order on Mobile).
 
-- Must match designs exactly (pixel perfect)
+- Must match designs exactly (pixel perfect colors, spacing, fonts, etc.)
 - Clicking Add Tile should show a popup with three tile types: Image, Links, and Shop
 - Clicking an item in the Add Tile popup should add that tile type to the tile list below
 - User should not be able to add more than 5 tiles
