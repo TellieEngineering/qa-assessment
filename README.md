@@ -1,3 +1,5 @@
+# Tellie's Quality Analyst Assessment
+
 **_[Estimated completion time: ~45 minutes]_**
 
 Hello and welcome to Tellie&#39;s Quality Analyst assessment! 👋
