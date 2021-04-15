@@ -44,7 +44,7 @@ _* Storybook does not actually upload an image to Tellie&#39;s servers, so the u
 
 ## What to send us
 
-Create a shareable online document (Google Docs, etc) and provide us a completed test plan and test case for each component. Email the document to `engineering@tell.ie`and title it `<Your Name> - QA Submission`. Also include answers to the following (500 words max for each answer):
+Create a shareable online document (Google Docs, etc) and provide us a completed test plan and test case for each component. Email the document to `engineering@tell.ie` and title it `<Your Name> - QA Submission`. Also include answers to the following (500 words max for each answer):
 
 1. What tools did you use to validate the acceptance criteria?
 1. What steps would you take to eliminate future regressions?
