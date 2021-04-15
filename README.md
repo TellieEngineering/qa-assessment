@@ -8,8 +8,8 @@ This will test your ability to catch visual and behavioral test case failures in
 
 Today, we want you to assure the quality of two UI components:
 
-1. Add/Edit Tiles ([storybook](https://tellieengineering.github.io/qa-assessment/?path=/story/composed-ui-library-set-editor-tiles--interactive) / figma)
-1. Image Well ([storybook](https://tellieengineering.github.io/qa-assessment/?path=/story/core-ui-library-images-and-icons-image-well--interactive) / figma)
+1. Add/Edit Tiles ([storybook](https://tellieengineering.github.io/qa-assessment/?path=/story/composed-ui-library-set-editor-tiles--interactive) / [figma](https://www.figma.com/file/PbmqwQVTBul7CnqlRDdDC5/QA-Assessment-Design-Guide?node-id=2%3A4474))
+1. Image Well ([storybook](https://tellieengineering.github.io/qa-assessment/?path=/story/core-ui-library-images-and-icons-image-well--interactive) / [figma](https://www.figma.com/file/PbmqwQVTBul7CnqlRDdDC5/QA-Assessment-Design-Guide?node-id=2%3A4474))
 
 Tellie uses [Storybook](https://storybook.js.org/) and [Figma](https://www.figma.com) to bridge our design and development teams. You will find links to each component in their respective applications above. There are more stories in our storybook (feel free to explore!), but please only test the specific stories above (**two** **total**). Also, please also review our fonts and color scheme here.
 
@@ -35,7 +35,7 @@ Tellie provides &quot;Tiles&quot; to users. Tiles are the main primitive with wh
 
 The Image Well allows a user to select an image from their computer and upload it to Tellie.
 
-- Must match designs exactly (pixel perfect)
+- Must match designs exactly (pixel perfect colors, spacing, fonts, etc.
 - User can drag an image file (only image files) from their native system onto the image well and it should begin the upload process*
 - User can click the image well and select an image (filtered by image type) from their native file system.
 - User should see an error if trying to upload an image larger than 1200x800
