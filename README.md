@@ -17,17 +17,17 @@ We have purposefully introduced bugs/errors into at least one of the components 
 
 ## Add/Edit Tiles Interactive - Acceptance Criteria
 
-Tellie provides &quot;Tiles&quot; to users. Tiles are the main primitive with which users build their sites. There are several different Tile types, from tiles that display an image, that display a set of links, that play media, etc. This component manages what tiles appear on a user&#39;s site (and in what order on Mobile).
+Tellie provides &quot;Tiles&quot; to users. Tiles are the main primitive with which users build their sites. There are several different Tile types, from Tiles that display an image, that display a set of links, that play media, etc. This component manages what Tiles appear on a user&#39;s site (and in what order on Mobile).
 
 - Must match designs exactly (pixel perfect colors, spacing, fonts, etc.)
-- Clicking Add Tile should show a popup with three tile types: Image, Links, and Shop
-- Clicking an item in the Add Tile popup should add that tile type to the tile list below
-- User should not be able to add more than 10 tiles
+- Clicking Add Tile should show a popup with three Tile types: Image, Links, and Shop
+- Clicking an item in the Add Tile popup should add that Tile type to the Tile list below
+- User should not be able to add more than 10 Tiles
 - Should show delete modal to confirm deleting a tile
-- Message should appear when a tile is deleted explaining the deletion and disappear after 5 seconds
-- Message should appear when the max tile limit is reached
-- Tiles are ordered and dragging a tile should reorder the tiles
-- User should be able to delete a tile by clicking the small down arrow on the right of each tile item and clicking &quot;Delete&quot;
+- Message should appear when a Tile is deleted explaining the deletion and disappear after 5 seconds
+- Message should appear when the max Tile limit is reached
+- Tiles are ordered and dragging a Tile should reorder the Tiles
+- User should be able to delete a Tile by clicking the small down arrow on the right of each Tile item and clicking &quot;Delete&quot;
 - Dragging items should be ~60fps
 - Text should be selectable
 
