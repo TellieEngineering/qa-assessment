@@ -15,7 +15,7 @@ Tellie uses [Storybook](https://storybook.js.org/) and [Figma](https://www.figma
 
 We have purposefully introduced bugs/errors into at least one of the components above. Review the Acceptance Criteria below and manually test each component against the criteria in Chrome on Desktop (you might opt to test other browsers, but this is not required).
 
-**Add/Edit Tiles Interactive - Acceptance Criteria**
+## Add/Edit Tiles Interactive - Acceptance Criteria
 
 Tellie provides &quot;Tiles&quot; to users. Tiles are the main primitive with which users build their sites. There are several different Tile types, from tiles that display an image, that display a set of links, that play media, etc. This component manages what tiles appear on a user&#39;s site (and in what order on Mobile).
 
@@ -30,7 +30,7 @@ Tellie provides &quot;Tiles&quot; to users. Tiles are the main primitive with wh
 - Dragging items should be ~60fps
 - Text should be selectable
 
-**Image Well Interactive - Acceptance Criteria**
+## Image Well Interactive - Acceptance Criteria
 
 The Image Well allows a user to select an image from their computer and upload it to Tellie.
 
@@ -42,7 +42,7 @@ The Image Well allows a user to select an image from their computer and upload i
 
 _* Storybook does not actually upload an image to Tellie&#39;s servers, so the uploaded image will be a placeholder._ **_This is acceptable in this case._**
 
-## What to send us
+# What to send us
 
 Create a shareable online document (Google Docs, etc) and provide us a completed test plan and test case for each component. Email the document to `engineering@tell.ie` and title it `<Your Name> - QA Submission`. Also include answers to the following (500 words max for each answer):
 
