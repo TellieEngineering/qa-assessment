@@ -8,8 +8,8 @@ This will test your ability to catch visual and behavioral test case failures in
 
 Today, we want you to assure the quality of two UI components:
 
-1. Add/Edit Tiles (storybook / figma)
-1. Image Well (storybook / figma)
+1. Add/Edit Tiles ([storybook](https://tellieengineering.github.io/qa-assessment/?path=/story/composed-ui-library-set-editor-tiles--interactive) / figma)
+1. Image Well ([storybook](https://tellieengineering.github.io/qa-assessment/?path=/story/core-ui-library-images-and-icons-image-well--interactive) / figma)
 
 Tellie uses [Storybook](https://storybook.js.org/) and [Figma](https://www.figma.com) to bridge our design and development teams. You will find links to each component in their respective applications above. There are more stories in our storybook (feel free to explore!), but please only test the specific stories above (**two** **total**). Also, please also review our fonts and color scheme here.
 
