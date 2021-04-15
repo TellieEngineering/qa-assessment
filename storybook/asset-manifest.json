@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9d512030.chunk.css",
+    "main.js": "./main.9ceb11c60c71d9e10546.bundle.js",
+    "main.css.map": "./static/css/main.9d512030.chunk.css.map",
+    "main.js.map": "./main.9ceb11c60c71d9e10546.bundle.js.map",
+    "runtime~main.js": "./runtime~main.9ceb11c60c71d9e10546.bundle.js",
+    "runtime~main.js.map": "./runtime~main.9ceb11c60c71d9e10546.bundle.js.map",
+    "vendors~main.js": "./vendors~main.9ceb11c60c71d9e10546.bundle.js",
+    "vendors~main.js.map": "./vendors~main.9ceb11c60c71d9e10546.bundle.js.map",
+    "iframe.html": "./iframe.html",
+    "static/media/high-five-cat.4455a201.gif": "./static/media/high-five-cat.4455a201.gif",
+    "static/media/nike_bg.b4383903.jpg": "./static/media/nike_bg.b4383903.jpg",
+    "static/media/tellie-bw-tile.804a61c2.jpg": "./static/media/tellie-bw-tile.804a61c2.jpg",
+    "static/media/zelda.8d67f7e9.jpg": "./static/media/zelda.8d67f7e9.jpg",
+    "vendors~main.9ceb11c60c71d9e10546.bundle.js.LICENSE.txt": "./vendors~main.9ceb11c60c71d9e10546.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.9ceb11c60c71d9e10546.bundle.js",
+    "vendors~main.9ceb11c60c71d9e10546.bundle.js",
+    "static/css/main.9d512030.chunk.css",
+    "main.9ceb11c60c71d9e10546.bundle.js"
+  ]
+}
