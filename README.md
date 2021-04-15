@@ -1,8 +1,8 @@
-# Tellie's Quality Analyst Assessment
+# Tellie's QA Assessment
 
 **_[Estimated completion time: ~45 minutes]_**
 
-Hello and welcome to Tellie&#39;s Quality Analyst assessment! 👋
+Hello and welcome to Tellie&#39;s QA assessment! 👋
 
 This will test your ability to catch visual and behavioral test case failures in real-world components. Tellie is a visually rich application, so our quality bar for aesthetics and user experience is high!
 
