@@ -37,7 +37,7 @@ Tellie provides &quot;Tiles&quot; to users. Tiles are the main primitive with wh
 
 The Image Well allows a user to select an image from their computer and upload it to Tellie.
 
-- Must match designs exactly (pixel perfect colors, spacing, fonts, etc.
+- Must match designs exactly (pixel perfect colors, spacing, fonts, etc.)
 - User can drag an image file (only image files) from their native system onto the image well and it should begin the upload process*
 - User can click the image well and select an image (filtered by image type) from their native file system.
 - User should see an error if trying to upload an image larger than 1200x800
@@ -47,7 +47,7 @@ _* Storybook does not actually upload an image to Tellie&#39;s servers, so the u
 
 # What to send us
 
-Create a shareable online document (Google Docs, etc) and provide us a completed test plan and test case for each component. Email the document to `engineering@tell.ie` and title it `<Your Name> - QA Submission`. Also include answers to the following (500 words max for each answer):
+Create a shareable online document (Google Docs, etc) and provide us a completed test plan with specific examples (where the UI/behavior differs, etc.) and test case for each component. Email the document to `engineering@tell.ie` and title it `<Your Name> - QA Submission`. Also include answers to the following (500 words max for each answer):
 
 1. What tools did you use to validate the acceptance criteria?
 1. What steps would you take to eliminate future regressions?
