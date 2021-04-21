@@ -13,7 +13,7 @@ Today, we want you to assure the quality of two UI components:
 
 Tellie uses [Storybook](https://storybook.js.org/) and [Figma](https://www.figma.com) to bridge our design and development teams. You will find links to each component in their respective applications above. There are more stories in our storybook (feel free to explore!), but please only test the specific stories above (**two** **total**). Also, please also review our fonts and color scheme here.
 
-Here's a [video](https://tellieengineering.github.io/qa-assessment/?path=qa_overview.mp4) overview of how to use Figma and Storybook.
+Here's a [video](https://github.com/TellieEngineering/qa-assessment/raw/main/qa_overview.mp4) overview of how to use Figma and Storybook.
 
 We have purposefully introduced bugs/errors into at least one of the components above. Review the Acceptance Criteria below and manually test each component against the criteria in Chrome on Desktop (you might opt to test other browsers, but this is not required).
 
