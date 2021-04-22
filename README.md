@@ -30,7 +30,6 @@ Tellie provides &quot;Tiles&quot; to users. Tiles are the main primitive with wh
 - Message should appear when the max Tile limit is reached
 - Tiles are ordered and dragging a Tile should reorder the Tiles
 - User should be able to delete a Tile by clicking the small down arrow on the right of each Tile item and clicking &quot;Delete&quot;
-- Dragging items should be ~60fps
 - Text should be selectable
 
 ## Image Well Interactive - Acceptance Criteria
@@ -47,7 +46,9 @@ _* Storybook does not actually upload an image to Tellie&#39;s servers, so the u
 
 # What to send us
 
-Create a shareable online document (Google Docs, etc) and provide us a completed test plan with specific examples (where the UI/behavior differs, etc.) and test case for each component. Email the document to `engineering@tell.ie` and title it `<Your Name> - QA Submission`. Also include answers to the following (500 words max for each answer):
+Create a shareable online document (Google Docs, etc) and provide us a completed test plan with specific examples (where the UI/behavior differs, etc.) and test case for each component. Please also include any items you found in exploratory testing, such as odd behaviors that you would expect to work differently. 
+
+Email the document to `engineering@tell.ie` and title it `<Your Name> - QA Submission`. Also include answers to the following (500 words max for each answer):
 
 1. What tools did you use to validate the acceptance criteria?
 1. What steps would you take to eliminate future regressions?
