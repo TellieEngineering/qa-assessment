@@ -1,6 +1,6 @@
 # Tellie's QA Assessment
 
-**_[Estimated completion time: ~45 minutes]_**
+**_[Estimated completion time: ~60 minutes]_**
 
 Hello and welcome to Tellie&#39;s QA assessment! 👋
 
